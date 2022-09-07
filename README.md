@@ -7,3 +7,5 @@ Or you can just simply do:
 comboBox1->Items->Add("1280x1024");
 comboBox1->Items->Add("1280x720");
 comboBox1->Items->Add("1024x768");
+
+https://youtu.be/HC-r5PrMyIk
